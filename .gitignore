@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+﻿# Visual Studio 2015 user specific files
 .vs/
 
 # Visual Studio 2015 database file
@@ -75,9 +75,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-<<<<<<< HEAD
-=======
 
 #Content folder
 Content/*
->>>>>>> Первоначальное доавбление файлов
+
